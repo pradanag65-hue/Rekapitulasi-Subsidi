@@ -1,0 +1,32 @@
+[
+  {
+    "id_item": "ITM-2026-001",
+    "periode": "Januari 2026",
+    "kategori": "BIAYA OPERASIONAL",
+    "detail_poin": "Biaya Keur",
+    "sumber": "Reguler",
+    "id_referensi": "-",
+    "usulan": 15000000,
+    "verifikasi": 15000000,
+    "sisa": 0,
+    "tindak_lanjut": "Selesai",
+    "diajukan_kembali": 0,
+    "hangus": 0,
+    "keterangan": "Lengkap"
+  },
+  {
+    "id_item": "ITM-2026-002",
+    "periode": "Januari 2026",
+    "kategori": "BIAYA OPERASIONAL",
+    "detail_poin": "Asuransi Kendaraan",
+    "sumber": "Reguler",
+    "id_referensi": "-",
+    "usulan": 94839317,
+    "verifikasi": 50000000,
+    "sisa": 44839317,
+    "tindak_lanjut": "Diajukan Kembali Sebagian",
+    "diajukan_kembali": 44839317,
+    "hangus": 0,
+    "keterangan": "Sisanya diajukan bulan depan"
+  }
+]
