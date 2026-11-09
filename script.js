@@ -1,5 +1,5 @@
 // URL Google Apps Script Web App Anda (Ganti setelah deploy Apps Script)
-const API_URL = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec'; 
+const API_URL = 'https://script.google.com/macros/s/AKfycbwahTiuEDDz_E2SfLiYnQsbSoN2aWDvyIJOZnyioA3XiE4xrhXuV5lG1274AFYBn9o2/exec'; 
 
 // DOM Elements
 const usulanInput = document.getElementById('usulan');
