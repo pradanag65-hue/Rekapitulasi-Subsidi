@@ -1,16 +1,22 @@
-/* style.css */
-/* Tailwind utilities mengatur hampir segalanya, tambahkan kustom scrollbar jika perlu */
+/* Custom Scrollbar bergaya Mac OS/Modern */
 ::-webkit-scrollbar {
-    width: 6px;
-    height: 6px;
+    width: 8px;
+    height: 8px;
 }
 ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
+    background: transparent; 
 }
 ::-webkit-scrollbar-thumb {
-    background: #c1c1c1; 
-    border-radius: 10px;
+    background: #cbd5e1; 
+    border-radius: 20px;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #a8a8a8; 
+    background: #94a3b8; 
+}
+
+/* Hilangkan panah up/down di input tipe number */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
 }
